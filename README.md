@@ -9,4 +9,4 @@ In addition, if a user has the administrator permission in the Help Desk applica
 
 In summary, the Help Desk application is an essential tool for managing and monitoring technical support requests, and enables efficient communication between users and support staff. With its administrator permissions functionality, the application is also useful for managing and supervising technical support in an organization.
 
-Translated with www.DeepL.com/Translator (free version)
+
